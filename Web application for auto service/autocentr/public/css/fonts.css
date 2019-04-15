@@ -1,0 +1,33 @@
+/* font-family: "Raleway-Font"; */
+@font-face {
+	font-family: "Raleway-Bold";
+	src: url("../fonts/Raleway-Font/Raleway-Bold.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "Raleway-Medium"; */
+@font-face {
+	font-family: "Raleway-Bold";
+	src: url("../fonts/Raleway-Font/Raleway-Medium.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "Open-Sans-Semibold"; */
+@font-face {
+	font-family: "Open-Sans-Semibold";
+	src: url("../fonts/Open-Sans-Semibold/Open-Sans-Semibold.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/* font-family: "OpenSans-Regular"; */
+@font-face {
+	font-family: "Open-Sans-Regular";
+	src: url("../fonts/Open-Sans-Semibold/Open-Sans-Regular.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
